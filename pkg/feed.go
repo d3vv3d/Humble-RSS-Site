@@ -68,7 +68,7 @@ func createFeed(products []Product, category string) (feeds.Feed, error) {
 	sort.Slice(feed.Items, func(i, j int) bool { return feed.Items[i].Title < feed.Items[j].Title })
 
 	// Sort items so that latest bundles are on the top.
-	sort.Slice(feed.Items, func(i, j int) bool { return feed.Items[i].Created.After(feed.Items[j].Created) })
+	sort.SliceStable(feed.Items, func(i, j int) bool { return feed.Items[i].Created.After(feed.Items[j].Created) })
 
 	return feed, nil
 }
