@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Tue, 17 Mar 2026 17:02:06 +0000</pubDate>
+    <pubDate>Tue, 17 Mar 2026 20:40:49 +0000</pubDate>
+    <item>
+      <title>Zero to Game Dev Hero - Course/Learning Bundle</title>
+      <link>https://humblebundle.com/software/zero-to-game-dev-hero-course-learning-bundle</link>
+      <description>Build the games you’ve always wanted to play</description>
+      <content:encoded><![CDATA[Here’s the situation: You’ve got ideas for designing the perfect video game, but you just don’t have the skills yet to make it happen. Luckily, we have just the bundle for you, chock-full of the game development software you’ve always wanted for a fraction of the price. Design whole worlds in all kinds of game genres in Unity, Godot, and Blender; take game developer practice exams for multiple engines; and learn how to 3D model environments, characters, and items completely from scratch! Everything you need to create the universes and stories you’ve always dreamed of is right here for the price of your choice, and every purchase of this bundle supports Code.org’s mission to bring computer science to students everywhere. <br/><br/><span style="color: #ef9741;">Keys expire. Please redeem your keys before April 7th, 2027. </span>]]></content:encoded>
+      <pubDate>Tue, 17 Mar 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Beat Builders 3: Sounds for Producers and Game Developers</title>
       <link>https://humblebundle.com/software/beat-builders-3-sounds-for-producers-and-game-developers-software</link>
@@ -116,13 +123,6 @@
       <description>Speed &amp; functionality in automation</description>
       <content:encoded><![CDATA[Automation feeling too rigid? Add flexibility to your workflows with The Complete n8n and Automation Bundle. n8n easily connects applications, databases, and APIs to quickly automate your tasks without extensive code. In a first-time Humble Bundle exclusive deal, learn how to use n8n to master lead generation automation for sales teams, build AI Agents with LLMs, streamline social media content, optimize your email marketing in Mailchimp, and so much more. Speed up your automation using the power of n8n, and help support Girls Who Code with a portion of your purchase.]]></content:encoded>
       <pubDate>Thu, 12 Feb 2026 19:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Game Audio Collection 1,800+ music tracks &amp; 65,000+ sound effects</title>
-      <link>https://humblebundle.com/software/game-audio-collection-1800-music-tracks-65000-sound-effects-software</link>
-      <description>65,000+ professional audio assets ready for production</description>
-      <content:encoded><![CDATA[Calling all game developers and video creators! This massive audio bundle delivers 1,800+ high-quality music tracks and 65,000+ sound effects built for real projects and real pipelines. From dark fantasy scores for RPGs to punchy UI sounds, ambient soundscapes, and high-energy tracks for action and cinematic scenes, there’s music, sound effects and voice packs here for every style and genre. <p>  All assets are created by experienced contributors from GameDev Market, giving you production-ready sound at a huge scale. Expand your audio library, speed up your workflow, and support Hello World when you pick up this bundle through Humble Bundle. </p>   <p> All of the software in this bundle is available DRM-Free via direct download. <p/> <p>   License Terms:   <a href="https://gamedevmarket.net/terms-conditions#pro-licence"      target="_blank"      style="color: white;">     https://gamedevmarket.net/terms-conditions#pro-licence   </a> </p>]]></content:encoded>
-      <pubDate>Tue, 10 Feb 2026 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
