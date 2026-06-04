@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 04 Jun 2026 10:58:53 +0000</pubDate>
+    <pubDate>Thu, 04 Jun 2026 18:13:22 +0000</pubDate>
+    <item>
+      <title>The 2026 Learn Unity Game Development Bundle</title>
+      <link>https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software</link>
+      <description>Unlock your creative side with Unity</description>
+      <content:encoded><![CDATA[Your new career in game development is only a click away with The 2026 Learn Unity Game Development Bundle! No prior knowledge is needed for this curated collection of lessons from GameDev.tv—just come prepared with a curious mind and a passion for gaming. Get started today and create your own RPG, 2D adventure, and more with courses like <em>Unity Turn Based Strategy Course</em> and <em>Unity Real Time Strategy Course</em>. Get the expert instruction you need from pros in the field, and help support Trees, Water & People with your purchase! <br/><br/><span style="color: #ef9741;">Keys expire. All titles should be redeemed before June 25th, 2027. </span>]]></content:encoded>
+      <pubDate>Thu, 04 Jun 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Krotos Cinematic Sound Suite</title>
       <link>https://humblebundle.com/software/krotos-cinematic-sound-suite-software</link>
@@ -90,13 +97,6 @@
       <pubDate>Mon, 18 May 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>The Voice Box Bundle</title>
-      <link>https://humblebundle.com/software/voice-box-bundle-software</link>
-      <description>Fill your projects with sound</description>
-      <content:encoded><![CDATA[<p>   Unlock the creative power of the human voice with this exclusive charitable bundle from Nightingale Music and Soundtrack Loops. Packed with a massive 7,322 royalty-free audio files, this expertly curated collection gives you everything you need to bring your projects to life. From dynamic spoken character dialogue to mouth-crafted sound effects and expressive singing, these assets are built to add personality, depth, and realism to your video games, films, and digital productions—all royalty-free. Create without limits while supporting a great cause. High-quality audio, unbeatable value, and a meaningful impact—this is one bundle you don’t want to miss. </p>  <div style="width: 100%; max-width: 100%; margin-top: 20px;">   <iframe      style="width: 100%; aspect-ratio: 16 / 9; border-radius: 8px;"      src="https://www.youtube.com/embed/e0sboaDFDGE"      title="YouTube video player"      frameborder="0"      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"      referrerpolicy="strict-origin-when-cross-origin"      allowfullscreen>   </iframe> </div>]]></content:encoded>
-      <pubDate>Thu, 14 May 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>All-In-One 2D Game Dev Level Creation Pack</title>
       <link>https://humblebundle.com/software/allinone-2d-game-dev-level-creation-pack-software</link>
       <description>Speedrun 2D level creation </description>
@@ -165,13 +165,6 @@
       <description>Billions of stars—thousands of assets</description>
       <content:encoded><![CDATA[Looking for a little help crafting the rich worlds of your next game project? Then The Ultimate Giga Cosmos Bundle is the 1,000+ asset library you need! This cosmos-sized collection contains everything you need, from the steampunk assets within the <em>Victorian Environment Megapack</em> to fantasy alien castles and magical elven cities. Unleash your creative potential and bring your imagination to life like never before with a 1-month trial subscription to Cosmos, Leartes’ expansive selection of high-quality 3D assets! Pay what you want for the ultimate asset bundle and help support Save the Children with your purchase!<br/><br/><span style="color: #ef9741;">Keys expire. All titles should be redeemed before April 20th, 2027. </span> ]]></content:encoded>
       <pubDate>Tue, 21 Apr 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>GameDev.tv&#39;s Game Jam Bundle</title>
-      <link>https://humblebundle.com/software/gamedevtvs-game-jam-bundle-software</link>
-      <description>It’s a game creation jam-fest</description>
-      <content:encoded><![CDATA[We’ve assembled a rim-rockin’ collection of assets and learning courses with the all-new GameDev.tv’s Game Jam Bundle! Unleash your inner creativity and develop your own fantasy RPG, first-person shooter, and more. This epic library contains all the vital creation lessons you need, from polygon creation to shading—unlock <em>Blender Skill Builder Course: Modelling Challenges</em>, <em>Unreal Environment Design Course</em>, and a massive assortment of asset packs. Pay what you want for industry-leading instruction and resources, and help support Girls Who Code with your purchase! <p></p> <iframe width="400" height="315" src="https://www.youtube.com/embed/IiuPbTjlm_g?si=mPfwgZ5Fb6ukAIfO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></content:encoded>
-      <pubDate>Mon, 20 Apr 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
