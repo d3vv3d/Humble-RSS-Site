@@ -4,7 +4,14 @@
     <link>https://feuerlord2.github.io/Humble-RSS-Site/</link>
     <description>Awesome RSS Feeds about HumbleBundle software bundles!</description>
     <managingEditor>DanielWinterEmsdetten+rss@gmail.com (Daniel Winter)</managingEditor>
-    <pubDate>Thu, 09 Jul 2026 17:53:19 +0000</pubDate>
+    <pubDate>Thu, 09 Jul 2026 21:24:11 +0000</pubDate>
+    <item>
+      <title>Learn to Make Games in Unity 2026 Bundle</title>
+      <link>https://humblebundle.com/software/learn-to-make-games-in-unity-2026-bundle-software</link>
+      <description>Learn to make games with Unity</description>
+      <content:encoded><![CDATA[Take your first steps into game development with one of the world’s most popular game engines, Unity. Whether you’re completely new to coding and game creation or ready to build bigger and more advanced projects, this bundle gives you the tools to grow your skills through hands-on learning. Start with beginner-friendly courses like Create Your First 2D Game in Unity and Create Your First 3D Game in Unity, then continue into larger projects like Complete Action RPG, Farming RPG, Tower Defense, and Construct a First Person Shooter. Along the way, you’ll learn C# programming, game systems, debugging, optimization, multiplayer, VR, and more. Pay what you want for a complete Unity learning bundle that can help turn your passion for games into real development skills  and help support Alzheimer's Research UK with your purchase. <br/><br/><span style="color: #ef9741;">Keys expire. Please redeem your keys before July 30th, 2027. </span>]]></content:encoded>
+      <pubDate>Thu, 09 Jul 2026 18:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>The Complete Claude AI for Blender Bundle</title>
       <link>https://humblebundle.com/software/complete-claude-ai-for-blender-bundle-software</link>
@@ -69,13 +76,6 @@
       <pubDate>Mon, 22 Jun 2026 18:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Professional Developer Pathways Bundle</title>
-      <link>https://humblebundle.com/software/professional-developer-pathways-bundle-software</link>
-      <description>Build modern developer skills</description>
-      <content:encoded><![CDATA[Learn practical programming, cloud, and web development skills with the Professional Developer Pathways Bundle. Build real projects with Python, JavaScript, Rust, C++, C#, React, Next.js, Django, Flask, and more while exploring Git & GitHub workflows, SQL databases, AWS and Azure developer skills, and modern AI-powered coding workflows with Claude Code. Pay what you want for a massive software development bundle from Zenva and support Alzheimer’s Research UK while building practical skills for today’s rapidly evolving developer landscape.]]></content:encoded>
-      <pubDate>Thu, 18 Jun 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Premium Sci-Fi Design Training Bundle</title>
       <link>https://humblebundle.com/software/premium-scifi-design-training-bundle-software</link>
       <description>Master modern staples of game development</description>
@@ -123,13 +123,6 @@
       <description>Discover what’s possible with Unity AI</description>
       <content:encoded><![CDATA[Pay what you want to learn how to use Unity AI, the ultimate AI assistant from the pros at Mammoth Club. Unity AI is your agentic assistant—editor-integrated, project-aware, and designed to streamline your workflows. It’s also your AI gateway, connecting directly to your models and tools to maximize performance, security, and control, while serving as your bridge to Unity from your IDE or preferred application. Highlighted by lessons like <em>Build a TikTok LIVE Game with Unity AI - Interactive Chat-Controlled Game</em>, this curated collection offers everything you need to become an AI mastermind. Save time, money, and reduce operational friction with the Complete Unity AI Bundle before it’s gone! <br/><br/><span style="color: #ef9741;">Keys expire. Please redeem your keys before July 07, 2027. </span>]]></content:encoded>
       <pubDate>Fri, 05 Jun 2026 18:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The 2026 Learn Unity Game Development Bundle</title>
-      <link>https://humblebundle.com/software/2026-learn-unity-game-development-bundle-software</link>
-      <description>Unlock your creative side with Unity</description>
-      <content:encoded><![CDATA[Your new career in game development is only a click away with The 2026 Learn Unity Game Development Bundle! No prior knowledge is needed for this curated collection of lessons from GameDev.tv—just come prepared with a curious mind and a passion for gaming. Get started today and create your own RPG, 2D adventure, and more with courses like <em>Unity Turn Based Strategy Course</em> and <em>Unity Real Time Strategy Course</em>. Get the expert instruction you need from pros in the field, and help support Trees, Water & People with your purchase! <br/><br/><span style="color: #ef9741;">Keys expire. All titles should be redeemed before June 25th, 2027. </span>]]></content:encoded>
-      <pubDate>Thu, 04 Jun 2026 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
